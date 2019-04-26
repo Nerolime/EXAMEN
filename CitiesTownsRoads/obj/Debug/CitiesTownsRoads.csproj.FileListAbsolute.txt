@@ -1,0 +1,15 @@
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\CitiesTownsRoads.exe.config
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\CitiesTownsRoads.exe
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\CitiesTownsRoads.pdb
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.csprojAssemblyReference.cache
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.csproj.CoreCompileInputs.cache
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.exe
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.pdb
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\EntityFramework.dll
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\EntityFramework.xml
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.csproj.CopyComplete
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.Migrations.InitialCreate.resources
+c:\users\айткожаж.corp\source\repos\CitiesTownsRoads\CitiesTownsRoads\obj\Debug\CitiesTownsRoads.csproj.GenerateResource.cache
